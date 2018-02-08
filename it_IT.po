@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: YOURLS 1.7\n"
 "POT-Creation-Date: 2014-01-11 11:50+0100\n"
-"PO-Revision-Date: 2018-02-07 17:02+0100\n"
+"PO-Revision-Date: 2018-02-08 10:03+0100\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -74,11 +74,11 @@ msgstr "Sempre"
 #: yourls-infos.php:309
 #, php-format
 msgid "Number of hits : %s"
-msgstr ""
+msgstr "Numero di click: %s"
 
 #: yourls-infos.php:332
 msgid "Historical click count"
-msgstr ""
+msgstr "Conteggio click"
 
 #: yourls-infos.php:338
 #, php-format
@@ -96,23 +96,23 @@ msgstr "URL breve creato il %s"
 #: yourls-infos.php:356 yourls-infos.php:363
 #, php-format
 msgid "%s per day"
-msgstr ""
+msgstr "%s per giorno"
 
 #: yourls-infos.php:359
 #, php-format
 msgid "%s per hour"
-msgstr ""
+msgstr "%s per ora"
 
 #: yourls-infos.php:366
 #, php-format
 msgid "%s hit"
 msgid_plural "%s hits"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s click"
+msgstr[1] "%s click"
 
 #: yourls-infos.php:373
 msgid "Best day"
-msgstr ""
+msgstr "Miglior giorno"
 
 #. //translators: eg. 43 hits on January 1, 1970
 #: yourls-infos.php:380
@@ -124,23 +124,23 @@ msgstr[1] ""
 
 #: yourls-infos.php:381 yourls-infos.php:443
 msgid "Click for more details"
-msgstr ""
+msgstr "Clicca per maggiori dettagli"
 
 #: yourls-infos.php:387 yourls-infos.php:390
 #, php-format
 msgid "Year %s"
-msgstr ""
+msgstr "Anno %s"
 
 #: yourls-infos.php:409 yourls-infos.php:447
 #, php-format
 msgid "1 hit"
 msgid_plural "%s hits"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 click"
+msgstr[1] "%s click"
 
 #: yourls-infos.php:426
 msgid "No traffic yet. Get some clicks first!"
-msgstr ""
+msgstr "Nessuna statistica di traffico. Ci deve essere prima qualche click!"
 
 #: yourls-infos.php:441
 msgid "Top 5 countries"
